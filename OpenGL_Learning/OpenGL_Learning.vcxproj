@@ -22,6 +22,9 @@
     <ClCompile Include="C:\Users\cuilongqi\Downloads\glad.c" />
     <ClCompile Include="HelloWindow.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
